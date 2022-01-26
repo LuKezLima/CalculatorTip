@@ -1,8 +1,9 @@
 
-<p align='center'>
-![](./desktopPrint.png)
-![](./mobilePrint.png)
+<p align="center">
+<img src="./desktopPrint.png">
+<img src="./mobilePrint.png">
 </p>
+
 
 # Frontend Mentor - Tip calculator app solution
 
