@@ -1,0 +1,19 @@
+button{
+    border-radius: .5rem;
+    border: none;
+    background-color: var(--Very-dark-cyan);
+    color: #fff;
+    font-weight: 700;
+    font-size: clamp(1rem, 1.2vw + 1rem, 3rem);
+    cursor: pointer;
+}
+
+.active{
+    background-color: var(--Strong-cyan);
+    color: var(--Very-dark-cyan);
+}
+
+button:hover{
+    background-color: var(--Strong-cyan);
+    color: var(--Very-dark-cyan);
+}
